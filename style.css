@@ -1,0 +1,10 @@
+#ripple-md{
+	position:absolute;
+	height:100%;
+	width:100%;
+	border-radius:50%;
+	background-color:#FFF;
+	opacity:.5;
+	animation:rippleeffect 1.5s;
+	transform:scale(0);
+	}
